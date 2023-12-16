@@ -1,6 +1,6 @@
 
 
-
+// the concept is the contribution of each element
 
 #include<bits/stdc++.h>
 using namespace std;

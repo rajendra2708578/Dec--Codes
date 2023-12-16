@@ -1,5 +1,5 @@
 
-
+// This include only functional code not included any header files and main function
 
 void dfs(int node,vector<int>&vis,vector<int>adj[],vector<int>&edges,vector<int>&ans)
     {
